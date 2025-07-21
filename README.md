@@ -9,7 +9,8 @@ Project Related to GENAI Frameworks:
 
 ```
 
-git Commands-
+```
+Git Commands-
 1. git clone : cloning of repository in local directory
 2. git init : initialise git
 3. git pull : Take a pull of all the files from git repository  
@@ -22,5 +23,7 @@ git Commands-
 10. git push origin <Branch Name> : push the code to git repository
 11. git restore --staged . : To unstage all the files
 12. git restore --staged filename.py: To unstage particular file
+
+```
 
 
