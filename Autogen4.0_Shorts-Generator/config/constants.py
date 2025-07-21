@@ -1,0 +1,3 @@
+OPENAI_MODEL = 'gpt-4.1-mini'
+TIMEOUT_DOCKER = 120
+WORK_DIR_DOCKER = 'img_temp'

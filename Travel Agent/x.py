@@ -1,0 +1,4 @@
+y = [{'xid': 'Q27080476', 'name': '39 And 40, Frith Street W1', 'dist': 625.73197246, 'rate': 6, 'wikidata': 'Q27080476', 'kinds': 'historic_architecture,architecture,interesting_places,other_buildings_and_structures', 'point': {'lon': -0.1312599927186966, 'lat': 51.512977600097656}}, 
+ {'xid': 'Q18748717', 'name': "St Anne's Churchyard", 'dist': 626.73890413, 'rate': 2, 'wikidata': 'Q18748717', 'kinds': 'gardens_and_parks,cultural,urban_environment,interesting_places', 'point': {'lon': -0.13230000436306, 'lat': 51.51240158081055}}, 
+ {'xid': 'Q27083975', 'name': 'K2 Telephone Kiosk Adjacent To Northernmost Kiosk In Group To North Of Bow Street Magistrates Court', 'dist': 626.41768289, 'rate': 6, 'wikidata': 'Q27083975', 'kinds': 'other,red_telephone_boxes,interesting_places', 'point': {'lon': -0.12232699990272522, 'lat': 51.51374053955078}}]
+
